@@ -1,7 +1,7 @@
 package table88;
 
 public class MenuVO {
-	//static은 공유된다는말
+	//static은 공유된다는말. 여기선 id라서 ㅇㅇ 
 	private static int counter = 5;
 	private int menuId;
 	private String menuName;
